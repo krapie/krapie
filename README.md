@@ -3,22 +3,10 @@
 
 > You should look at the code that I've written - Bill Gates
 
-## I wanna be...
+## I Wanna Be...
 * Web FulL-Stack Developer
 * Mobile Application Developer
 * Alorithm Master
-
-## Skills
-* Languages
-  * C/C++
-  * Java
-  * HTML/CSS/Javascript
-  * SQL
-* Frameworks
-  * Node.js
-* Problem Solving
-  * Codeforces Green
-  * Baekjoon Gold 2
 
 ## Links
 * [Personal Website](https://komputer-p.github.io/Portfolio)
