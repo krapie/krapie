@@ -2,7 +2,7 @@
 
 > You should look at the code that I've written - Bill Gates
 
-## I Wanna Be...
+## I'm Currently Studying on
 * Web Full-Stack Developer
 * Mobile Application Developer
 * Algorithm Master
