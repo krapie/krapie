@@ -2,7 +2,7 @@
 
 > You should look at the code that I've written - Bill Gates
 
-## I'm Currently Studying on
+## I'm Currently Studying On
 * Web Full-Stack Developer
 * Mobile Application Developer
 * Algorithm Master
