@@ -1,4 +1,4 @@
-# Kevin Park
+# Park Ji Hwan
 
 > You should look at the code that I've written - Bill Gates
 
@@ -6,11 +6,13 @@
 * 1+ Commit per Day
 * 1 Algorithm Problem per Day
 
-## I'm Currently Studying On
-* Web Front-End
-* Web Back-End
-* Android Application
+## My Interests
+* Project Manager
 * Algorithm
+* Server / Back-End
+* Web Front-End
+* Android Application
+* iOS Application
 
 ## Links
 * [Personal Website (OnGoing)](https://komputer-p.github.io/Portfolio)
