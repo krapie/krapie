@@ -3,8 +3,8 @@
 > You should look at the code that I've written - Bill Gates
 
 ## I'm Currently Doing
-* 5+ Commit per Week
-* 5 Algorithm Problems per Week
+* 5+ Commits per Week
+* 5+ Algorithm Problems per Week
 
 ## My Interests
 * Project Manager
