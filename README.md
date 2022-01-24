@@ -7,12 +7,9 @@
 * 5+ Algorithm Problems per Week
 
 ## My Interests
+* Server / Back-End
 * Project Manager
 * Algorithm
-* Server / Back-End
-* Web Front-End
-* Android Application
-* iOS Application
 
 ## Links
 * [Personal Website (OnGoing)](https://komputer-p.github.io/Portfolio)
