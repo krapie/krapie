@@ -3,11 +3,12 @@
 > You should look at the code that I've written - Bill Gates
 
 ## I'm Currently Doing
-* 5+ Commits per Week
-* 5+ Algorithm Problems per Week
+* 6+ Commits per Week
+* 3+ Server/Back-End Study per Week
+* 3+ Algorithm Problems per Week
 
 ## My Interests
-* Server / Back-End
+* Server/Back-End
 * Project Manager
 * Algorithm
 
