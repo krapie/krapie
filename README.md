@@ -13,7 +13,7 @@
 * Algorithm
 
 ## Links
-* [Personal Website (OnGoing)](https://komputer-p.github.io/Portfolio)
+* [Personal Website (Outdated)](https://komputer-p.github.io/Portfolio)
 
 ## Cards
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=komputer)](https://solved.ac/komputer)
