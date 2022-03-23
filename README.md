@@ -46,14 +46,3 @@
 - Workspace | Notion
 - Meeting | Discord
 </details>
-
-# 📚 Experiences
-## I'm Currently Doing
-* 6+ Commits per Week
-* 3+ Server/Back-End Study per Week
-* 3+ Algorithm Problems per Week
-
-## My Interests
-* Server/Back-End
-* Project Manager
-* Algorithm
