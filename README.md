@@ -30,22 +30,22 @@
 - Protocol | SSH (Putty)
 - Container | Docker
 
-## Frontend
 
+## MISC
+<details><summary>Frontend</summary>
 - Language | HTML5, CSS3, JS(ES6), Kotlin
 - Framework | React.js (Hooks)
 - IDE | Visual Studio Code, Android Studio
-
-## Algorithm
-
+</details>
+<details><summary>Algorithm</summary>
 - Language | C, C++ (C++ STL)
 - IDE | Visual Studio, Dev-C++
-
-## Collaboration
-
+</details>
+<details><summary>Collaboration</summary>
 - Repository | Git
 - Workspace | Notion
 - Meeting | Discord
+</details>
 
 # 📚 Experiences
 ## I'm Currently Doing
