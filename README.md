@@ -7,8 +7,9 @@ I also love to share my knowledge and skills to the world, with mentoring and co
 
 ### Experience
 
-- MSIT, SW Maestro 13th
-- Sejong University, Bachelor degree of computer science, undergraduate
+- Yorkie Team, NAVER (2023.02 ~ )
+- SW Maestro 13th, Ministry of Science and ICT (2022.04 ~ 2022.11)
+- Bachelor Degree of Computer Science, Sejong University, Undergraduate (2018.02 ~ )
 
 ### Contact
 
