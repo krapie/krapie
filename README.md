@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin Park 👋
  
-I'm a backend/devops developer interested in distributed systems, system design, infrastructure, and cloud nativer. But I also do frontend stuff too.
+I'm a backend/devops developer interested in distributed systems, system design, infrastructure, and cloud native. But I also do frontend stuff too.
 I'm also an open source member/contributer of [Yorkie](https://github.com/yorkie-team), [Kubernetes](https://github.com/kubernetes), [Istio](https://github.com/istio), and [tldraw](https://github.com/tldraw). I'm looking forward to contributing to more open source projects.
 I love to optimize and organize many things, both my lifestyle and my development.
 I also love to share my knowledge and skills with the world through mentoring and contributing.
