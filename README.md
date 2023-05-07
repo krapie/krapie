@@ -14,6 +14,7 @@ I also love to share my knowledge and skills with the world through mentoring an
 ### Contact
 
 - [Email](mailto:krapi0314@gmail.com)
-- [CV (Korean)](https://bit.ly/3E2Bzei)
+- [CV (English)](https://github.com/krapie/resume/blob/master/examples/resume.pdf)
+- [CV (Korean)](https://github.com/krapie/resume/blob/korean/examples/resume.pdf)
 - [Tech Blog (Korean)](https://krapi0314.tistory.com/)
 - [Coffee Chat (Kakao Talk)](https://open.kakao.com/o/sdhFPW0e)
