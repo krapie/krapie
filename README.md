@@ -12,11 +12,11 @@ I also love to share my knowledge and skills with the world through mentoring an
 
 ### Activities
 - Yorkie Developer, Open Frontier, National IT Industry Promotion Agency (2023.05 ~ )
-- Yorkie Mentor, Opensource Contribution Academy, National IT Industry Promotion Agency (2023.05 ~ )
+- Yorkie Mentor, Open Source Contribution Academy, National IT Industry Promotion Agency (2023.05 ~ )
 
 ### Educations
 - Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.04 ~ 2022.11)
-- Bachelor Degree of Computer Science, Sejong University, Undergraduate (2018.02 ~ )
+- Bachelor Degree of Computer Science, Sejong University (Undergraduate, 2018.02 ~ )
 
 ### Contacts
 
