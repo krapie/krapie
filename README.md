@@ -5,18 +5,20 @@ I'm also an open source member/contributor of [Yorkie](https://github.com/yorkie
 I love to optimize and organize many things, both my lifestyle and my development.
 I also love to share my knowledge and skills with the world through mentoring and contributing.
 
-### Work Experience
+### Work Experiences
 
 - DevOps Engineer, Karrot Pay (Intern, 2023.06 ~ ) 
 - DevOps & Backend Engineer, NAVER (Contract, 2023.02 ~ 2023.06)
-- Bachelor Degree of Computer Science, Sejong University, Undergraduate (2018.02 ~ )
 
-### Other Experience
+### Activities
 - Yorkie Developer, Open Frontier, National IT Industry Promotion Agency (2023.05 ~ )
 - Yorkie Mentor, Opensource Contribution Academy, National IT Industry Promotion Agency (2023.05 ~ )
-- Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.04 ~ 2022.11)
 
-### Contact
+### Educations
+- Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.04 ~ 2022.11)
+- Bachelor Degree of Computer Science, Sejong University, Undergraduate (2018.02 ~ )
+
+### Contacts
 
 - [Email](mailto:krapi0314@gmail.com)
 - [CV (English)](https://github.com/krapie/resume/blob/master/examples/resume.pdf)
