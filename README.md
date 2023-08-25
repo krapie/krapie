@@ -7,7 +7,7 @@ I also love to share my knowledge and skills with the world through mentoring an
 
 ### Work Experiences
 
-- DevOps Engineer, Karrot Pay (Intern, 2023.06 ~ ) 
+- DevOps Engineer, Karrot Pay (Intern, 2023.06 ~ 2023.08) 
 - DevOps & Backend Engineer, NAVER (Contract, 2023.02 ~ 2023.06)
 
 ### Activities
