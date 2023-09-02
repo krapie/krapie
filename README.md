@@ -8,7 +8,7 @@ I also love to share my knowledge and skills with the world through mentoring an
 ### Work Experiences
 
 - DevOps Engineer, KarrotPay Inc. (Intern, 2023.06 ~ 2023.08) 
-- DevOps & Backend Engineer, NAVER Corp. (Contract, 2023.02 ~ 2023.06)
+- Backend Engineer, NAVER Corp. (Contract, 2023.02 ~ 2023.06)
 
 ### Activities
 - Yorkie Developer, Open Frontier, National IT Industry Promotion Agency (2023.05 ~ )
