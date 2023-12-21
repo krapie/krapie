@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin Park 👋
  
-I'm a DevOps and backend developer interested in distributed systems, system design, infrastructure, and cloud native. But I also do frontend stuff too.
+I'm a Backend and DevOps developer interested in distributed systems, system design, infrastructure, and cloud native. But I also do frontend stuff too.
 I'm also an open source maintainer of [Yorkie](https://github.com/yorkie-team) and a member of [Kubernetes](https://github.com/kubernetes) and [Istio](https://github.com/istio). I'm looking forward to contributing to more open source projects.
 I love to optimize and organize many things, both my lifestyle and my development.
 I also love to share my knowledge and skills with the world through mentoring and contributing.
@@ -11,8 +11,8 @@ I also love to share my knowledge and skills with the world through mentoring an
 - Software Engineer, NAVER Corp. (Freelance, 2023.02 ~ 2023.06)
 
 ### Activities
-- Yorkie Developer, Open Frontier, National IT Industry Promotion Agency (2023.05 ~ )
-- Yorkie Mentor, Open Source Contribution Academy, National IT Industry Promotion Agency (2023.05 ~ )
+- Yorkie Developer, Open Frontier, National IT Industry Promotion Agency (2023.05 ~ 2023.11)
+- Yorkie Mentor, Open Source Contribution Academy, National IT Industry Promotion Agency (2023.05 ~ 2023.10)
 
 ### Educations
 - Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.04 ~ 2022.11)
