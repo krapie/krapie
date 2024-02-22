@@ -12,12 +12,19 @@ I'm interested in server-related topics such as backend, DevOps, infrastructure,
 - Software Engineer, NAVER Corp. (Freelance, 2023.02 ~ 2023.06)
 
 ### Activities
+
 - Yorkie Developer, Open Frontier, National IT Industry Promotion Agency (2023.05 ~ 2023.11)
 - Yorkie Mentor, Open Source Contribution Academy, National IT Industry Promotion Agency (2023.05 ~ 2023.10)
 
 ### Educations
+
 - Mentee, SW Maestro 13th, Ministry of Science and ICT (2022.04 ~ 2022.11)
 - Bachelor Degree of Computer Science, Sejong University (Undergraduate, 2018.02 ~ )
+
+### Certificates
+
+- Certified Kubernetes Administrator (CKA) (2024.02 ~ )
+- Certified Kubernetes Application Developer (CKAD) (2024.02 ~ )
 
 ### Contacts
 
