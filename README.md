@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin Park 👋
  
-I'm a software developer specializing in Go and Java-based web server application development, K8s and AWS-based backend architecture design and infrastructure deployment, and JS and TS-based web application prototyping.
+I'm a DevOps engineer specializing in infrastructure development and operation with Go, K8s, and AWS.
 
 I'm also an open source maintainer of [Yorkie](https://github.com/yorkie-team) and a member of [Kubernetes](https://github.com/kubernetes) and [Istio](https://github.com/istio), and have many other open source activities.
 
@@ -8,6 +8,7 @@ I'm interested in server-related topics such as backend, DevOps, infrastructure,
 
 ### Work Experiences
 
+- DevOps Engineer, PaytaLab Corp. (2024.02 ~)
 - DevOps Engineer, KarrotPay Inc. (Intern, 2023.06 ~ 2023.08) 
 - Software Engineer, NAVER Corp. (Freelance, 2023.02 ~ 2023.06)
 
